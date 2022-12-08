@@ -1,20 +1,47 @@
 # Careers
 
+Sinta-se livre para aplicar para qualquer uma das vagas e nível, você pode ver quais tecnologias usamos em [highsoftsistemas.com.br/tech](highsoftsistemas.com.br/tech).
+
+Quanto mais próximo às nossas tecnologias usadas atualmente na empresa, melhor seu projeto será avaliado.
+
 ## Software Engineer - Backend
-#### Pleno
+### Junior
+API Laravel com apenas 2 endpoints
+- user/:id deve listar seu nome e email
+- city/:id deve listar a cidade de um usuario
 
+Usar um banco de dados é de sua preferencia.
 
-#### Senior
+### Pleno
+CRUD project Laravel
+- O tema do CRUD é de sua preferencia
+- Deve-se utilizar um banco de dados
 
+### Senior
+API Laravel enviando os dados para algum e-commerce de sua preferencia
+
+Ex: buscar um produto no banco de dados, formatar conforme o e-commerce escolhido e enviar para la
 
 ## Software Engineer - Delphi
-#### Pleno
+### Senior
+Aplicação Delphi que realize o fluxo completo de uma venda, desde cadsatro de cliente, até a emissão de um modelo de nota fiscal.
 
-
-#### Senior
 
 ## Software Engineer - Fullstack
-#### Pleno
+### Junior
+CRUD Fullstack React + Node
 
+### Pleno
+CRUD Fullstack React + Node
+- Faça cache dos dados do front-end
+- Utilize tailwind para estilização
 
-#### Senior
+### Senior
+CRUD Fullstack Next + Node
+- Utilize Next13
+- Faça uma pagina SSG
+- Utilize SSR em algum data fetching
+- Utilize tailwind para estilização
+
+# Onde enviar meu projeto?
+Após finalizar, você pode enviar seu projeto em [highsoftsistemas.com.br/vagas](highsoftsistemas.com.br/vagas).
