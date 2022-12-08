@@ -1,6 +1,6 @@
 # Careers
 
-Sinta-se livre para aplicar para qualquer uma das vagas e nível, você pode ver quais tecnologias usamos em [highsoftsistemas.com.br/tech](highsoftsistemas.com.br/tech).
+Sinta-se livre para aplicar para qualquer uma das vagas e nível, você pode ver quais tecnologias usamos em [https://highsoftsistemas.com.br/tech](https://highsoftsistemas.com.br/tech).
 
 Quanto mais próximo às nossas tecnologias usadas atualmente na empresa, melhor seu projeto será avaliado.
 
@@ -44,4 +44,4 @@ CRUD Fullstack Next + Node
 - Utilize tailwind para estilização
 
 # Onde enviar meu projeto?
-Após finalizar, você pode enviar seu projeto em [highsoftsistemas.com.br/vagas](highsoftsistemas.com.br/vagas).
+Após finalizar, você pode enviar seu projeto em [https://highsoftsistemas.com.br/vagas](https://highsoftsistemas.com.br/vagas).
