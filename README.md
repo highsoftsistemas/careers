@@ -24,7 +24,7 @@ Ex: buscar um produto no banco de dados, formatar conforme o e-commerce escolhid
 
 ## Software Engineer - Delphi
 ### Senior
-Aplicação Delphi que realize o fluxo completo de uma venda, desde cadsatro de cliente, até a emissão de um modelo de nota fiscal.
+Aplicação Delphi que realize o fluxo completo de uma venda, desde cadastro de cliente, até a emissão de um modelo de nota fiscal.
 
 
 ## Software Engineer - Fullstack
