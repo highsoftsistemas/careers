@@ -24,7 +24,8 @@ Ex: buscar um produto no banco de dados, formatar conforme o e-commerce escolhid
 
 ## Software Engineer - Delphi
 ### Senior
-Aplicação Delphi que realize o fluxo completo de uma venda, desde cadastro de cliente, até a emissão de um modelo de nota fiscal.
+Criar uma funcção para consulta de cep, utilizando a api via cep.
+api: https://viacep.com.br/ws/01001000/json/
 
 
 ## Software Engineer - Fullstack
